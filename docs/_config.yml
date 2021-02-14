@@ -1,0 +1,11 @@
+remote_theme: ddc-java/ddc-day
+title: Spatial Sort
+description: "Sort 2-dimensional points according to their X and Y coordinates."
+assignment_url: https://classroom.github.com/a/VlTb0OYE
+page_navigator:
+  enabled: false
+heading_navigator:
+  enabled: true
+author:
+  name: Nick Bennett
+  email: nick@nickbenn.com
